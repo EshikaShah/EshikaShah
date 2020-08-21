@@ -20,12 +20,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="EshikaShah | LinkedIn" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/eshika-shah/)
-[<img align="left" alt="EshikaShah | Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/eshikashah/)
-[<img align="left" alt="EshikaShah | Gmail" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:eshikashah2001@gmail.com)
-[<img align="left" alt="EshikaShah | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/eshika_shah2019)
-[<img align="left" alt="EshikaShah | Medium" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://www.hackerrank.com/eshika_shah2019)
-
+[<img align="left" alt="EshikaShah | LinkedIn" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/eshika-shah/)
+[<img align="left" alt="EshikaShah | Instagram" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/eshikashah/)
+[<img align="left" alt="EshikaShah | Gmail" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:eshikashah2001@gmail.com)
+[<img align="left" alt="EshikaShah | hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/eshika_shah2019)
+[<img align="left" alt="EshikaShah | Medium" width="25px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://www.hackerrank.com/eshika_shah2019)
+<br/>
 
 📊 **This week I spent my time on**<br/>
 <!--START_SECTION:waka-->
