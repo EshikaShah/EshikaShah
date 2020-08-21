@@ -27,7 +27,7 @@
 [<img align="left" alt="EshikaShah | Medium" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://www.hackerrank.com/eshika_shah2019)
 
 <br />
-📊 **This week I spent my time on**
+📊  **This week I spent my time on**<br/>
 <!--START_SECTION:waka-->
 SQL          10 hrs 20 mins  ████████████████████░░░░░   86.47 % <br/>
 HTML         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   04.46 % <br/>
