@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋, I am Eshika Shah.</h1>
+<h1 align="center">Hey there!👋, I am Shruti Gupta.</h1>
 <h3 align="center">An ardent Data Scientist and a keen learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshikaShah" alt="eshika shah" /> </p>
 
