@@ -2,7 +2,7 @@
 <h3 align="center">An ardent Data Scientist and a keen learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshikaShah" alt="eshika shah" /> </p>
 
-- 🔭 I’m currently working on [Check Book Buy with my team](https://github.com/Nishil07/Chai_time_hack)
+- 🔭 I’m currently working on [Purchasing pattern in Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
 
 - 🌱 I’m currently learning DL, Computer Vision and Front end developement.
 
