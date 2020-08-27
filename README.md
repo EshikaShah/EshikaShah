@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋, I am Shruti Gupta.</h1>
 <h3 align="center">An ardent Data Scientist and a keen learner.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EshikaShah" alt="eshika shah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti8301" alt="shruti gupta" /> </p>
 
 - 🔭 I’m currently working on [Purchasing pattern in Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
 
