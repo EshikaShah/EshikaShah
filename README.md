@@ -51,7 +51,5 @@ R            15 mins         ▓░░░░░░░░░░░░░░░░
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
-<p align="center"><b>Eshika's Github Stats!</b></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EshikaShah&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
-<p align="center"><b>Most used languages.</b></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshikaShah&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
