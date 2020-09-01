@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EshikaShah](https://github.com/EshikaShah)
 
-- 📝 I will be posting my articles on [https://medium.com/@eshikashah2001](https://medium.com/@eshikashah2001)
+- 📝 I post my articles on [https://medium.com/@eshikashah2001](https://medium.com/@eshikashah2001)
 
 - 💬 Ask me about **ML-DL, Python, C, C++, SQL**
 
