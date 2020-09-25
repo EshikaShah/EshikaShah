@@ -2,7 +2,7 @@
 <h3 align="center">An ardent Data Scientist and a keen learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshikaShah" alt="eshika shah" /> </p>
 
-- 🔭 I’m currently working on [Purchasing pattern in Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
+- 🔭 I’m currently working on [Disease detection in plant leaves](https://github.com/EshikaShah/Plant-disease-detection)
 
 - 🌱 I’m currently learning DL, Computer Vision and Front end developement.
 
