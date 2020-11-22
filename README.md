@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Disease detection in plant leaves](https://github.com/EshikaShah/Plant-disease-detection)
 
-- 🌱 I’m currently learning DL, Computer Vision and Front end developement.
+- 🌱 I’m currently learning DL, Computer Vision, Front end development and Backend development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/EshikaShah](https://github.com/EshikaShah)
 
