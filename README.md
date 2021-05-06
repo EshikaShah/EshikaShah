@@ -2,7 +2,7 @@
 <h3 align="center">An ardent Data Scientist and a keen learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshikaShah" alt="eshika shah" /> </p>
 
-- 🔭 I’m currently working on [Disease detection in plant leaves](https://github.com/EshikaShah/Plant-disease-detection)
+- 🔭 I’m currently working on Hack-a-thons and winning them ;)
 
 - 🌱 I’m currently learning DL, Computer Vision, Front end development and Backend development.
 
