@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ML-DL, Python, C, C++, SQL**
 
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Learn DSA and CP.
 
 - 📫 Reach me at: **eshikashah2001@gmail.com**
 
